@@ -7,4 +7,7 @@
     <string name="edittext_share">\'Twas brillig and the slithy toves</string>
     <string name="button_share">Share This Text</string>
     <string name="uri_hint">Enter Uri</string>
+    <string name="location_hint">Enter Location</string>
+    <string name="share_hint">Enter Text</string>
+    <string name="share_text_with">Share this text with:</string>
 </resources>
